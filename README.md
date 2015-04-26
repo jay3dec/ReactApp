@@ -1,4 +1,4 @@
-Clone the repository and Naviagte to the project directory.
+Clone the repository and Navigate to the project directory.
 ```
 git clone https://github.com/jay3dec/ReactApp.git
 cd ReactApp
