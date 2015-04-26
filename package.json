@@ -1,0 +1,18 @@
+{
+  "author": "Your Name Here",
+  "name": "ReactApp",
+  "repository": "",
+  "description": "",
+  "version": "1.0.0",
+  "main": "./app/app.js",
+  "reapp": "0.8",
+  "scripts": {
+    "test": "",
+    "start": "reapp run"
+  },
+  "dependencies": {
+    "react": "^0.13.2",
+    "reapp-kit": "^1.2.0",
+    "reapp-ui": "^0.12.47"
+  }
+}
